@@ -37,7 +37,6 @@ public class ImpactFood {
         FoodItem otherMeal = new FoodItem(name, carbon, water, weight);
 
         // Displaying the result
-
         System.out.println("\nMain Meals\n\n");
         // Hard coded values
         // First object

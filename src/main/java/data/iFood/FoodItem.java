@@ -36,7 +36,7 @@ public class FoodItem {
         if (carbonFootprintPerKg >= 0) {
             this.carbonFootprintPerKg = carbonFootprintPerKg;
         } else {
-            throw new IllegalArgumentException("You should have at least no to one footprint");
+            throw new IllegalArgumentException("You need to have at least no to one footprint");
         }
     }
     public void setWaterUsagePerKg(double waterUsagePerKg) {
@@ -44,7 +44,7 @@ public class FoodItem {
         if (waterUsagePerKg >= 0){
             this.waterUsagePerKg = waterUsagePerKg;
         } else {
-            throw new IllegalArgumentException("You should either have no or at least one water usage");
+            throw new IllegalArgumentException("You need to either have no or at least one water usage");
         }
     }
     public void setWeightInKg(double weightInKg) {

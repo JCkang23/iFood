@@ -1,8 +1,7 @@
 package data.iFood;
 /*
 * Taps
-*
-* Work on this class with aggregation
+* Work on aggregation
 * */
 import java.util.ArrayList;
 

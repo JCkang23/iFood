@@ -1,6 +1,10 @@
 package data.iFood;
 import java.util.Scanner;
 
+/*
+* Akuah's implementation
+* */
+
 public class EnvironmentImpactCalculator{
     private Scanner sc = new Scanner(System.in);
 

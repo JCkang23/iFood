@@ -1,5 +1,9 @@
 package data.iFood;
 
+/*
+* Josue's implementation
+* */
+
 public class FoodItem {
     // Variable declaration
     private String name;

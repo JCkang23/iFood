@@ -13,7 +13,7 @@ public class EnvironmentalImpactCalculator extends JFrame {
     private JList<String> foodList;
     private JPanel mealPanel;
 
-    // Color palette storage
+    // Color palette storage for later use
     private final Color BG_COLOR = new Color(245, 247, 250);
     private final Color CARD_COLOR = new Color(255, 255, 255);
     private final Color TEXT_COLOR = new Color(52, 58, 64);

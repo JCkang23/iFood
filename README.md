@@ -15,22 +15,6 @@ through Object-Oriented Programming model. It provides an user friendly interfac
 
 Time spent: **63** hours spent in total
 
-## Installation and Running the App
-
-**_1. Compile the project from the command line_**
-
-In the command line, navigate to the root directory of the project cd iFood, and run: mvn compile
-
-Running from IntelliJ IDEA, enter this command: mvn clean package for the package application and then: java -jar target/iFood-1.0-SNAPSHOT.jar
-
-**_2. Run the program_**
-
-Run the main method that is in the EnvironmentalImpactCalculator.java with this command: mvn exec:java -Dexec.mainClass="fully.qualified.data.iFood.Main"
-
-cd iFood
-run mvn clean package for the mvn package
-then run mvn exec:java to run the program through the command line
-
 ## Required Features
 
 The following **required** functionality is completed:
@@ -49,7 +33,7 @@ The following **additional** features are implemented:
 - [ ] Flexible weight input for each food item (grams)
 - [ ] Environmental tips panel for sustainable eating
 
-## Video Walkthrough
+## Video Walkthrough <> Running the App
 
     <a href="https://www.loom.com/share/49d819022efb410da3a8f168d03bc299">
       <p>Group_5_iFood - Watch Video</p>

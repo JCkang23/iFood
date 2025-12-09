@@ -60,7 +60,7 @@ The following **additional** features are implemented:
 ### Challenges encountered
 
 - Difficulties in implementing an automated suggestions/tips array for feedback about the best meal selection - Time constraint
-- Difficulties in requestion an external API to access various food data
+- Difficulties in making a request to an external API to access various food data
 
 ## License
 

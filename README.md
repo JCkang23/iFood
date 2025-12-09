@@ -51,8 +51,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-    <a href="https://www.loom.com/share/631655c2b3f248659d09cba8817e034f">
-            Simulator - iPhone 15 Pro - 9 April 2024 - Watch Video
+    <a href="https://www.loom.com/share/49d819022efb410da3a8f168d03bc299">
+      <p>Group_5_iFood - Watch Video</p>
     </a>
 
 ## Notes

@@ -36,7 +36,7 @@ then run mvn exec:java to run the program through the command line
 The following **required** functionality is completed:
 
 - [X] Package of food items with environmental impact
-  - [X] Note: These are predifined foods for the users to add on 
+  - [X] Note: These are predefined foods for the users to add on 
 - [X] Users can add multiple food items to compose meals
 - [X] Calculation of environmental impact as users modify their meal
 - [X] User-friendly Swing interface for the users to interact with the program

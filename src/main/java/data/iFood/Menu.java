@@ -24,6 +24,7 @@ public class Menu {
         FOODS.add(new Beans());
         FOODS.add(new Coffee());
         FOODS.add(new Tea());
+        FOODS.add(new Yam());
     }
 
     public static List<FoodItem> getAllFoods() {
